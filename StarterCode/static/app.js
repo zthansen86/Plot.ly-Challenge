@@ -62,7 +62,7 @@ function buildPlot(id) {
         var dataBubble = [traceBubble];
 
         var layoutBubble = {
-            title: "Bacteria in Sample and Correspoding Frequency",
+            title: "Bacteria in Sample and Corresponding Frequency",
             xaxis: {title: 'OTU ID'},
             yaxis: {title: 'Frequency'}
         };
